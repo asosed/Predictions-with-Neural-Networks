@@ -62,8 +62,7 @@ target/
 .python-version
 
 # exclude data from source control by default
-/regression/data/
-/multi_class_classification/data
+/regression/data/processed
 /data/
 
 # ipynb checkpoints
